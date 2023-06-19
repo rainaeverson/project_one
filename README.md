@@ -1,6 +1,6 @@
 # **Overview**
 
-### The purpose of this project is to identify what, if any, factors lead to success of a movie. The sample extracted contains movies from 2010 to 2020 only.
+### The purpose of this project is to identify what, if any, quantifiable factors lead to success of a movie. The sample extracted contains movies from 2010 to 2020 only.
 #### [The Movies Data](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) from Kaggle is the source used for this analysis.
 ---
 ### **Pulling from the data, the team started with three quesions:**
