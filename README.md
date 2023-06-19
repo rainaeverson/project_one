@@ -2,7 +2,6 @@
 
 ### The purpose of this project is to identify what, if any, factors lead to success of a movie. The sample extracted contains movies from 2010 to 2020 only.
 #### [The Movies Data](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) from Kaggle is the source used for this analysis.
-##### Disclaimer: In order to glean meaningful conclusions, data with missing values were cut from the final dataset. While the original data includes more than 14,000 rows, it was narrowed to around 1,600 rows for the team to use it effectively.
 ---
 ### Pulling from the data, the team started with three quesions:
 ##### 1. How did movies perform based on genre from 2010 to 2020?
