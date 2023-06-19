@@ -1,6 +1,6 @@
 ## Overview
 
-### [The Movies Data from Kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) is the source used for this analysis.
+### [The Movies Data](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset) from Kaggle is the source used for this analysis.
 #### The purpose of this project is to identify what, if any, factors lead to success of a movie.
 ##### Disclaimer: In order to glean meaningful conclusions, data with missing values were cut from the final dataset. While the original data includes more than 14,000 rows, it was narrowed to around 1,600 rows for the team to use it effectively.
 ---
