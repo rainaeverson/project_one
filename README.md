@@ -37,5 +37,6 @@
 ##### Final answer: Soft yes
 ---
 ### Back to our hypothesis!
-#### If the budget is directly correlated to movie success, the rating will increase in proportion to the budget.
+#### Null: If budget is not related to movie success (by rating), there will be no correlation between these factors.
+#### Alternate: If the budget is directly correlated to movie success, the rating will increase in proportion to the budget.
 ##### According to our data, we have concluded with the null hypothesis. The R-squared value between these factors is: 0.00599181, which does not signify a direct success of ratings strictly due to the budget. 
