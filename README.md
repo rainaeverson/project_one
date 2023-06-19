@@ -15,7 +15,6 @@
 ## **Analysis**
 ### **No. 1 : How did movies perform based on genre from 2010 to 2020?**
 ##### Note: These genres are the "parent" genre of the movie, which we felt would be the best representation of the film's subject matter.
-#### Americans were more interested in learning new things than would likely be hypothesized by the general public! Looking to the past and what surrounds us as we have become more and more detached from the world as it was pre-internet is a delightful discovery.
 
 #### From the complete dataset cleaned by Louis and represented by Adam, the **top** five genres are as follows:
   ##### 1. History
