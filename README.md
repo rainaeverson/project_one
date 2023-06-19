@@ -24,7 +24,13 @@
   ##### 4. War
   ##### 5. Drama
 
-#### Americans were more interested in learning new things than would likely be hypothesized by the general public! Looking to the past and what surrounds us as we have become more and more detached from the world as it was pre-internet is a delightful discovery.
+#### A surprising discovery that leads to more questions. 
+
+##### How many movies in the history genre were factual, rather than based on true events? With history sitting at the top, does this stem from an interest to learn about the past, or is it a cathartic experience for people who have trouble feeling comfortable in a world that was plunged into the digital age?
+
+##### Are the documentaries that made it to the top a reflection of peoples' worries? Furthermore, how many are reliant on the internet either for data or interest of the public? (Thinking of the various diet crazes and nutrition models that were proven wrong and right, and how the internet played a big role in the mass confusion that people experienced with trying to have a balanced diet.)
+
+### Either way, this was unexpected and refreshing.
 
 #### The five **lowest** performing genres:
   ##### 1. Horror
@@ -35,7 +41,7 @@
 
 #### Horror, thriller, and comedy genres all have a commonality - they heavily rely on people's tastes. 
 ##### In general, it is not condusive to our evolution to like being scared. There are likely studies that show a negative connection for the health of people who choose to be scared on a regulary basis. RIP. 
-##### Comedy has always been a divisive genre, as people's opinions on what consitutes as funny varies more than other types of entertainment. Everyone likes to laugh, but not everyone finds the same views/remarks/stories funny.
+##### Comedy has always been a divisive genre, as people's opinions on what consitutes as funny varies more than other types of entertainment. Everyone likes to laugh, but not everyone finds the same views/remarks/stories funny. It can also be noted that comedy plays a huge role in most movies as the sub-genre.
 
 
 ### **No. 2 : Is there a correlation between the budget for the movie and the rating it recieved?**
@@ -51,4 +57,5 @@
 ### **Back to our hypothesis!**
 #### Null: If budget is not related to movie success (by rating), there will be no correlation between these factors.
 #### Alternate: If the budget is directly correlated to movie success, the rating will increase in proportion to the budget.
+
 ##### According to our data, we have concluded with the null hypothesis. The R-squared value between these factors is 0.00599181, which does not signify a direct success of ratings strictly due to the budget. 
