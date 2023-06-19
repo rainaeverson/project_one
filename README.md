@@ -41,7 +41,7 @@
 #### Horror, thriller, and comedy genres all have a commonality - they heavily rely on people's tastes. 
 ##### In general, it is not condusive to our evolution to like being scared. There are likely studies that show a negative connection for the health of people who choose to be scared on a regulary basis. RIP. 
 
-##### Comedy has always been a divisive genre, as people's opinions on what consitutes as funny varies more than other types of entertainment. Everyone likes to laugh, but not everyone finds the same views/remarks/stories funny. It can also be noted that comedy plays a huge role in most movies as the sub-genre.
+##### Comedy has always been a divisive genre, as people's opinions on what consitutes as funny varies more than other types of entertainment. Everyone likes to laugh, but not everyone finds the same views/remarks/stories funny. It can also be noted that comedy plays a huge role in most movies as the sub-genre, rather than the main subject matter of the film.
 ---
 
 ## **No. 2 : Is there a correlation between the budget for the movie and the rating it recieved?**
