@@ -14,14 +14,14 @@
 ---
 ## Analysis
 ### No. 1 : How did movies perform based on genre from 2010 to 2020?
-##### From the complete dataset cleaned by Louis and represented by Adam, the top five genres are as follows:
+#### From the complete dataset cleaned by Louis and represented by Adam, the top five genres are as follows:
   ##### 1. History
   ##### 2. Music
   ##### 3. Documentary
   ##### 4. War
   ##### 5. Drama
 
-##### The five lowest performing genres:
+#### The five lowest performing genres:
   ##### 1. Horror
   ##### 2. Comedy
   ##### 3. Thriller
