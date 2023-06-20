@@ -49,15 +49,16 @@
 ##### Final answer: No
 
 ## **No. 3 : Does the rating of a movie directly correlate with the revenue it earns?**
-#### The Movie Rating's v Revenue's plot shows a notable difference in correlation. While the movies are still spread out, there is a discernable trend between the rating it received and the revenue it earned. (People who hear about a good movie are more likely to pay to watch it, after all!) There is still a shroud of points at the low-end of revenue, which could be attributed to marketing and palatability of the content to the masses and therefore a smaller sample of people actively reviewing the movie.
+#### The Movie Ratings v Revenues plot shows a notable difference in correlation to the Genres v Revenues plot. For the sake of having more data to ponder, the former chart mentioned will be used for the analysis of this question. While the movies are still spread out, there is a discernable trend between the rating it received and the revenue it earned. (People who hear about a good movie are more likely to pay to watch it, after all!) There is still a shroud of points at the low-end of revenue, which could be attributed to marketing and palatability of the content to the masses and therefore a smaller sample of people actively reviewing the movie.
 
 #### Action movies were successful in regards to revenue earnings, which is likely due to the rise of technology making the impossible possible. Family oriented films remained consistent in their earnings throughout this period.
-#### Critically-acclaimed movies earned more, while action movies earnings did not depend on a high rating.
+#### Critically-acclaimed movies earned more, while action movies earnings did not depend on a high rating to be profitable.
+#### The R-squared value for these variables is 0.04158, indicating that there is not a correlation between these factors.
 
-##### Final answer: Soft yes
+##### Final answer: No
 ---
 ## **Back to our hypothesis!**
 #### Null: If budget is not related to movie success (by rating), there will be no correlation between these factors.
 #### Alternate: If the budget is directly correlated to movie success, the rating will increase in proportion to the budget.
 
-##### According to our data, we have concluded with the null hypothesis. The R-squared value between these factors is 0.00599181, which does not signify a direct success of ratings strictly due to the budget. 
+##### According to our data, we have concluded that the null hypothesis is accurate. The R-squared value between these factors is 0.00599, which does not signify direct success of ratings strictly due to the budget. 
