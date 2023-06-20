@@ -44,7 +44,7 @@
 ---
 
 ## **No. 2 : Is there a correlation between the budget for the movie and the rating it recieved?**
-#### Drawing from the plots, the data reveals a low-grade, insignificant pattern. The highest budgeted film was rated below a 7, while a very low-budget film sits at a rating of 9- the highest in this dataset. While there may be a correlation between budget and rating, it does not consitute causation. From this, we can conclude that there are plenty of other factors that contribute to success, such as the writing, organization, actors, director style, etc.
+#### Drawing from the Movie Rating v Budget, the data reveals an insignificant pattern with an R-squared value of 0.00599. The highest budgeted film was rated below a 7, while a very low-budget film sits at a rating of 9- the highest in this dataset. While there may be a correlation between budget and rating, it does not consitute causation. From this, we can conclude that there are plenty of other factors that contribute to success, such as the writing, organization, actors, director style, etc.
 
 ##### Final answer: No
 
