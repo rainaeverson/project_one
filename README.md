@@ -26,10 +26,9 @@
 ##### A surprising discovery that leads to more questions. 
 ##### How many movies in the history genre were factual, rather than based on true events? With history sitting at the top, does this stem from an interest to learn about the past, or was it a cathartic experience for people who have trouble feeling comfortable in a world that was plunged into the digital age?
 
-##### Are the documentaries that made it to the top a reflection of peoples' worries? Furthermore, how many are reliant on the internet either for data or interest of the public? (Thinking of the various diet crazes and nutrition models that were proven wrong and right, and how the internet played a big role in the mass confusion that people experienced with trying to have a balanced diet.)
+##### Are the documentaries that made it to the top a reflection of peoples' worries? Furthermore, how many are reliant on the internet either for data or interest of the public? (Thinking of the various diet crazes and nutrition models that were proven right or wrong, and how the internet plays a big role in the mass confusion that people experience with trying to have a balanced diet.)
 
-#### Historical movies typically include strong performances partnered with rich storytelling. It connects us to the past and naturally triggers reflection on the changes - good or bad - that have taken place.
-#### These subjects are likely to be viewed as more suitable to a wider age-range than the five lowest rated genres.
+#### Questions aside, historical movies typically include strong performances partnered with rich storytelling. It connects us to the past and naturally triggers reflection on the changes - good or bad - that have taken place. These subjects are likely to be viewed as more suitable to a wider age-range than the five lowest rated genres.
 ---
 #### The five **lowest** performing genres:
   ##### 1. Horror
