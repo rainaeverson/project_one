@@ -44,7 +44,7 @@
 ---
 
 ## **No. 2 : Is there a correlation between the budget for the movie and the rating it recieved?**
-#### Drawing from the Movie Rating v Budget, the data reveals an insignificant pattern with an R-squared value of 0.00599, and a P-value of 9.8623. This is indicating that these factors are not significant in the success of a movie. The highest budgeted film was rated below a 7, while a very low-budget film sits at a rating of 9- the highest in this dataset. While there may be a correlation between budget and rating, it does not consitute causation. From this, we can conclude that there are plenty of other factors that contribute to success, such as the writing, organization, actors, director style, etc.
+#### Drawing from the Movie Rating v Budget, the data reveals an insignificant pattern with a p-value of 9.8623. This is indicating that these factors are not significant in the success of a movie. The highest budgeted film was rated below a 7, while a very low-budget film sits at a rating of 9- the highest in this dataset. While there may be a correlation between budget and rating, it does not consitute causation. From this, we can conclude that there are plenty of other factors that contribute to success, such as the writing, organization, actors, director style, etc.
 
 ##### Final answer: No
 
@@ -53,7 +53,7 @@
 
 #### While the movies are still spread out, there is a discernable trend between the rating it received and the revenue it earned. (People who hear about a good movie are more likely to pay to watch it, after all!) There is still a shroud of points at the low-end of revenue, which could be attributed to marketing and palatability of the content to the masses and therefore a smaller sample of people actively reviewing the movie. Action movies were successful in regards to revenue earnings, which is likely due to the rise of technology making the impossible possible. Family oriented films remained consistent in their earnings throughout this period. Critically-acclaimed movies earned more, while action movies earnings did not depend on a high rating to be profitable.
 
-#### The p-value for this data is 5.0778, indicating that there is not a correlation enough between these factors to conclude this to be a major factor in movie success.
+#### The p-value for this data is 5.0778, indicating that there is not a correlation between these factors to conclude this to be a major factor in movie success.
 
 ##### Final answer: No
 ---
